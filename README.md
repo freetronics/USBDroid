@@ -4,7 +4,7 @@ Copyright 2011 Freetronics Pty Ltd
 Freetronics site:  <www.freetronics.com>  
 Freetronics email: <info@freetronics.com>  
 
-The USBHost is a 100% Arduino Compatible Board, based on the existing
+The USBDroid is a 100% Arduino Compatible Board, based on the existing
 Uno, but with improvements and updates for ease of use, cost
 and getting started. It also includes on-board USB host functionality
 using a dedicated port.
@@ -21,7 +21,7 @@ Features:
 
 You can view more at our product page at:
 
-  http://www.freetronics.com/usbhost
+  http://www.freetronics.com/usbdroid
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format, images of the pcb, and our Getting Started
